@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\RentApp\bin\Debug\netcoreapp3.1\RentApp.exe
+C:\Users\hp\source\repos\RentApp\bin\Debug\netcoreapp3.1\RentApp.deps.json
+C:\Users\hp\source\repos\RentApp\bin\Debug\netcoreapp3.1\RentApp.runtimeconfig.json
+C:\Users\hp\source\repos\RentApp\bin\Debug\netcoreapp3.1\RentApp.runtimeconfig.dev.json
+C:\Users\hp\source\repos\RentApp\bin\Debug\netcoreapp3.1\RentApp.dll
+C:\Users\hp\source\repos\RentApp\bin\Debug\netcoreapp3.1\RentApp.pdb
+C:\Users\hp\source\repos\RentApp\obj\Debug\netcoreapp3.1\RentApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RentApp\obj\Debug\netcoreapp3.1\RentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\RentApp\obj\Debug\netcoreapp3.1\RentApp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RentApp\obj\Debug\netcoreapp3.1\RentApp.AssemblyInfo.cs
+C:\Users\hp\source\repos\RentApp\obj\Debug\netcoreapp3.1\RentApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RentApp\obj\Debug\netcoreapp3.1\RentApp.dll
+C:\Users\hp\source\repos\RentApp\obj\Debug\netcoreapp3.1\RentApp.pdb
+C:\Users\hp\source\repos\RentApp\obj\Debug\netcoreapp3.1\RentApp.genruntimeconfig.cache
